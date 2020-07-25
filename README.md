@@ -18,14 +18,13 @@
 </p><br>
 
 
-**Android Dev Weekly** aims to be the weekly source for Android-Kotlin App Developers.
+**Android Dev Weekly** aims to be the weekly source for Android-Kotlin App Developers to find the finest and latest learning content for Android App Development.
 
 Content in languages other than English is tagged according to ISO 639-2 codes.
 
 :books: [**Weekly Resources**](#books-weekly-resources)
 
 :memo: [**Contributing**](#memo-contributing)
-
 
 ## 2020 
 
@@ -34,7 +33,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [Issue 1](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-1.md)
 
 
-## :memo: Weekly Resources
+## :books: Weekly Resources
 
 ### Android focused
 

@@ -1,7 +1,7 @@
 <h1 align="center">Issue 1 - Android Dev Weekly</h1></br>
 
 <p align="center">
-25th July 2020 - Weekly happenings in Android Dev Community.
+2020 July 25 - Weekly happenings in Android Dev Community.
 </p>
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-<img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
+<img width="320px" src="https://github.com/androiddevnotes/android-dev-weekly/blob/master/assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </p><br>
 
 
@@ -116,63 +116,93 @@
 
     - Scaling Your Android Build (Part 1): Going Beyond Modularization with Gradle
 
+    - by [Gradle](https://www.youtube.com/channel/UCvClhveoEjokKIuBAsSjEwQ)
+
 - https://www.youtube.com/watch?v=8Ite-GMYhTA
 
     - Live coding an app with Kotlin
+
+    - by [Google Developers India](https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg)
 
 - https://www.youtube.com/watch?v=QxHkE1yaxYs
 
     - Concise Android codebase using Kotlin | Nav Singh | KotlinHyderabad
 
+    - by [Kotlin Hyderabad](https://www.youtube.com/channel/UCiN8_T92Jj9CV6p2RbnU0_A)
+
 - https://www.youtube.com/watch?v=3kwQTJADABQ
 
     - Learn Android and Kotlin with no programming experience, Paging 3, Bazel 3.4, & more!
+
+    - by [Google Developers ](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
 - https://www.youtube.com/watch?v=-Yezh4oQjb8
 
     - Kotlin First - Overview of Kotlin // 360AnDev // Taking Advantage of Kotlin for Android
 
+    - by [goobar](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
+
 - https://www.youtube.com/watch?v=omml4lK_b-A
 
     - View Binding - Getting Started + Differences - Android Studio Tutorial
+
+    - by [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
 
 - https://www.youtube.com/watch?v=vVJeOACGSOU
 
     - Hilt makes testing easier on Android
 
+    - by [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
+
 - https://www.youtube.com/watch?v=Onri9Oc73N0
 
     - Android 11 Meetup: GDG Jalandhar | #Android11Meetup
+
+    - by [GDG Jalandhar](GDG Jalandhar)
 
 - https://www.youtube.com/watch?v=B56oV3IHMxg
 
     - Hilt - Android Dependency Injection
 
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
+
 - https://www.youtube.com/watch?v=1cwqGOku2a4
 
     - Paging with Paging 3
+
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 
 - https://www.youtube.com/watch?v=9BHZY7F7lw8
 
     - Introducing Android Performance Tuner - Android Game Dev Show
 
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
+
 - https://www.youtube.com/watch?v=LUw_LpTMTto
 
     - Getting to know CameraX Beta
+
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 
 - https://www.youtube.com/watch?v=09qjn706ITA
 
     - Navigating navigation
 
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
+
 - https://www.youtube.com/watch?v=AJmMD-UIcd0
 
     - Introducing Play Asset Delivery - Android Game Dev Show
+
+    - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 
 #### [ZH]
 
 - https://www.youtube.com/watch?v=cB9rURMQPw0&t=851s
 
     - 2020 年 Google 認證之路: Kotlin 定案了~ 有彩蛋，但晚了就沒有了
+
+    - by [綠豆湯學院](https://www.youtube.com/channel/UC8-FSfwl0UjRiFBr7rC8Ivg)
 
 ## Podcasts
  
@@ -189,11 +219,9 @@
 
     - Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.
 
-
 - https://github.com/rizmaulana/floating-slideup-sheet
 
     - Simple and lightweight UI library for user new experience, combining floating bottom navigation and bottom sheet behaviour. Simple and beautiful.
-
 
 - https://github.com/skydoves/AndroidBottomBar
 
@@ -246,5 +274,5 @@
 <div align="center">
 	<a href="https://github.com/androiddevnotes"> GitHub </a> / <a href="https://www.instagram.com/androiddevnotes"> Instagram </a> / <a href="https://twitter.com/androiddevnotes"> Twitter </a>
 	<br><br>
-    <img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
+    <img width="320px" src="https://github.com/androiddevnotes/android-dev-weekly/blob/master/assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
 </div>
