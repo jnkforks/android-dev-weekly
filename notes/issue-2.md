@@ -1,4 +1,4 @@
-<h1 align="center">Issue 1 - Android Dev Weekly</h1></br>
+<h1 align="center">Issue 2 - Android Dev Weekly</h1></br>
 
 <p align="center">
 2020 August 8 - Weekly happenings in Android Dev Community.
