@@ -28,6 +28,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## 2020 
 
+
+### August
+- [Issue 2](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-2.md)
+
+
+
 ### July
 
 - [Issue 1](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-1.md)
