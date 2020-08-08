@@ -23,6 +23,8 @@
 
 - [Videos](#videos)
 
+- [Podcasts](#podcasts)
+
 - [Open-source Projects](#open-source-projects)
 
 - [Discussions](#discussions)
@@ -152,6 +154,12 @@
 
     - by [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
 
+
+## Podcasts
+ 
+- https://androiddev.apptractor.ru/interesnye-materialy-dlya-android-razrabotchika-228-2/
+
+    - Интересные материалы для Android-разработчика #228
 
 ## Open-source Projects
 
