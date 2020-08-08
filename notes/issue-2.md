@@ -185,8 +185,6 @@
 
     - So i just found a really weird string in the files in /data/data/ from gBoard, anyone know what they do? You can still type them 🤔
 
-- https://www.reddit.com/r/androiddev/comments/huklpf/weekly_whos_hiring_thread/
-
 
 ## :computer: Find us on
 
