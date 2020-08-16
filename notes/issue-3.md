@@ -118,6 +118,12 @@
 
     - 🎒 A fast, secure and modular key-value storage with batteries-included for Android and JVM.
 
+### Tutorial Project (Not this week, but too good)
+
+- https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android
+
+    - 🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!
+
  
 ## Discussions
 
