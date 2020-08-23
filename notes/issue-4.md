@@ -23,7 +23,7 @@
 
 - [Slides](#slides)
 
-- [Course](#course)
+- [Courses](#courses)
 
 - [Podcasts](#podcasts)
 
@@ -104,7 +104,7 @@
 
     - From LiveData to Coroutines & Flow
 
-## Course
+## Courses
 
 - https://caster.io/courses/dependency-injection-with-dagger-2
 
