@@ -31,6 +31,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### August
 
+- [Issue 4](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-4.md)
+
 - [Issue 3](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-3.md)
 
 - [Issue 2](https://github.com/androiddevnotes/android-dev-weekly/blob/master/notes/issue-2.md)
