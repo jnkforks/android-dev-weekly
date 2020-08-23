@@ -23,6 +23,8 @@
 
 - [Slides](#slides)
 
+- [Course](#course)
+
 - [Podcasts](#podcasts)
 
 - [Open-source Projects](#open-source-projects)
@@ -101,6 +103,12 @@
 - https://speakerdeck.com/jossiwolf/from-livedata-to-coroutines-and-flow
 
     - From LiveData to Coroutines & Flow
+
+## Course
+
+- https://caster.io/courses/dependency-injection-with-dagger-2
+
+    - Dependency Injection with Dagger 2
 
 
 ## Podcasts
